@@ -1,0 +1,4 @@
+https://github.com/jefonyx/tpgit.git
+
+git remote add github https://github.com/jefonyx/tpgit.git
+git push -u github master
